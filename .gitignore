@@ -2,6 +2,7 @@
 layers/
 data/
 tmp/
+.idea/
 *.xml
 *.osm.pbf
 node_modules/
