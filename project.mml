@@ -39,7 +39,6 @@ Stylesheet:
   - style.mss
   - fonts.mss
   - shapefiles.mss
-  - water.mss
   - placenames.mss
   - admin.mss
 Layer:
