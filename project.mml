@@ -41,6 +41,7 @@ Stylesheet:
   - shapefiles.mss
   - placenames.mss
   - admin.mss
+  - road-colors-generated.mss
   - roads.mss
 Layer:
   - id: world
