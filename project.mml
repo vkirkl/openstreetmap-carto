@@ -41,6 +41,7 @@ Stylesheet:
   - shapefiles.mss
   - placenames.mss
   - admin.mss
+  - roads.mss
 Layer:
   - id: world
     geometry: polygon
