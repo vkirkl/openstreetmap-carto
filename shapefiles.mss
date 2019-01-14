@@ -14,7 +14,7 @@
 #world {
   [zoom >= 0][zoom < 10] {
     polygon-fill: @land-color;
-    polygon-opacity:1;
+    polygon-opacity:0;
     polygon-simplify: 0.4;
     [zoom < 8] {
       line-color: darken(@water-color,20%);
@@ -28,6 +28,6 @@
 #coast-poly {
   [zoom >= 10] {
     polygon-fill: @land-color;
-    polygon-opacity:1;
+    polygon-opacity:0;
   }
 }
